@@ -2,3 +2,5 @@ Visualizer/Intermediate/*
 Visualizer/Binaries/*
 Visualizer/Saved/*
 *.db
+*.ipch
+Visualizer/.vs/Visualizer/v15/.suo

@@ -2,5 +2,7 @@
 
 #pragma once
 
+#include "agentProc.h"
+#include "metaobject.h"
 #include "CoreMinimal.h"
 
